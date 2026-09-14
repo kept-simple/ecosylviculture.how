@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "ecosylviculture.how — Close-to-nature forestry in practice"
+  },
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "download": "Download",
+    "impressum": "Legal Notice"
+  },
+  "language": {
+    "label": "Choose language",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "fr": "Français"
+  },
+  "footer": {
+    "impressum": "Impressum / Legal Notice",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "country": {
+      "de": "Germany",
+      "ie": "Ireland",
+      "us": "United States",
+      "nl": "Netherlands"
+    }
+  },
+  "home": {
+    "eyebrow": "Close-to-nature silviculture",
+    "role": "Continuous cover forestry, in practice",
+    "intro": "A forest managed close to nature carries its own risk insurance: mixed, structured stands recover from storm, drought and bark beetle in a way that even-aged monocultures do not. This site collects the practice behind that approach — what to mark, what to leave standing, and how to let the next stand grow in under the old one.",
+    "principle": "The guiding idea is simple: <strong>work with the stand you have</strong>. Harvest single trees rather than whole areas, keep the canopy closed, and let natural regeneration do the planting.",
+    "pillars": {
+      "continuousCover": {
+        "term": "Continuous cover",
+        "text": "No clearcuts. Single-tree and group selection keeps the forest floor shaded, the microclimate stable and the soil covered at all times."
+      },
+      "mixedStands": {
+        "term": "Site-adapted mixtures",
+        "text": "Several species per stand, chosen for the site rather than for the market. Mixture spreads risk across pests, drought years and price swings."
+      },
+      "naturalRegeneration": {
+        "term": "Natural regeneration",
+        "text": "The next generation comes from seed already on site. It costs no planting stock, roots undisturbed, and selects itself for local conditions."
+      }
+    },
+    "closing": "Everything here is written for people who actually walk their stands: forest owners, foresters, and anyone taking over woodland that was managed differently for the last fifty years."
+  },
+  "contact": {
+    "eyebrow": "Questions & enquiries",
+    "title": "Contact",
+    "subtitle": "How to reach me",
+    "intro": "Questions about a particular stand, about converting an even-aged forest, or about the material on this site? Email is the fastest way to reach me. By phone I am usually available during normal business hours.",
+    "directHeading": "Direct contact",
+    "addressHeading": "Postal address",
+    "note": "Please do not send sensitive personal data by email unless it is necessary for your enquiry. For more information on how your data is processed, see the privacy policy."
+  },
+  "download": {
+    "eyebrow": "Material for the field",
+    "title": "Download",
+    "subtitle": "Guides, tables and forms",
+    "intro": "Material you can print, take into the stand and fill in on site. Everything here is free to use and to pass on.",
+    "button": "Download",
+    "items": {
+      "fieldGuide": {
+        "title": "Field guide: selective marking",
+        "text": "A short guide to marking single trees for harvest without opening the canopy."
+      },
+      "speciesTable": {
+        "title": "Site and species table",
+        "text": "Which species to favour on which site — soil, water supply and expected drought stress."
+      },
+      "markingProtocol": {
+        "title": "Marking protocol",
+        "text": "Printable form for recording marked trees, diameters and removal volume per stand."
+      }
+    },
+    "note": "This list is a placeholder — the documents are still being prepared and the links are not live yet."
+  },
+  "impressum": {
+    "pageTitle": "Legal Notice",
+    "pageSubtitle": "Information pursuant to Section 5 of the German Digital Services Act (DDG)",
+    "heading": "Legal Notice (English)",
+    "note": "This English version is provided for convenience; the German version above is authoritative.",
+    "contactHeading": "Contact",
+    "vatHeading": "VAT Identification Number",
+    "vatText": "VAT identification number (Umsatzsteuer-Identifikationsnummer) pursuant to Section 27a of the German VAT Act:",
+    "disputeHeading": "Consumer Dispute Resolution",
+    "disputeText": "I am neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board.",
+    "contentLiabilityHeading": "Liability for Content",
+    "contentLiabilityText": "The contents of this website have been prepared with due care. However, no guarantee is given as to the accuracy, completeness or currentness of the information provided.",
+    "linksLiabilityHeading": "Liability for External Links",
+    "linksLiabilityText": "This website may contain links to external third-party websites. I have no control over the content of these external websites and therefore cannot assume responsibility for such content. The respective provider or operator of the linked website is responsible for its content.",
+    "copyrightHeading": "Copyright",
+    "copyrightText": "Unless otherwise indicated, the content and works created by me on this website are subject to German copyright law. Reproduction, editing, distribution or any form of use beyond the limits permitted by copyright law requires my prior written consent."
+  },
+  "privacy": {
+    "pageTitle": "Privacy Policy",
+    "pageSubtitle": "Information on the processing of personal data pursuant to the GDPR",
+    "heading": "Privacy Policy (English)",
+    "note": "This English version is provided for convenience; the German version above is authoritative.",
+    "lastUpdated": "Last updated: {{date}}",
+    "s1": {
+      "heading": "1. Data Protection at a Glance",
+      "p1": "The protection of your personal data is important to me. This Privacy Policy explains what personal data is collected when you visit this website and how such data is processed.",
+      "p2": "Personal data means any information relating to an identified or identifiable natural person."
+    },
+    "s2": {
+      "heading": "2. Controller",
+      "p1": "The controller responsible for data processing on this website within the meaning of the General Data Protection Regulation (GDPR) is:"
+    },
+    "s3": {
+      "heading": "3. Hosting",
+      "p1": "This website is a purely static website and is served via GitHub Pages. The hosting provider is:",
+      "euEntityIntro": "Within the European Economic Area, GitHub is represented by:",
+      "p2": "When you visit this website, GitHub as the hosting provider may process technical information necessary to deliver the website and ensure its secure and reliable operation. This may include, in particular:",
+      "items": [
+        "IP address or anonymised IP address",
+        "date and time of access",
+        "requested page or file",
+        "browser type and version",
+        "operating system",
+        "referrer information",
+        "information concerning the requesting provider",
+        "technical information concerning the request and response"
+      ],
+      "p3": "The processing of this information is necessary for the secure, reliable and efficient operation of the website. According to GitHub, the IP address of visitors to a GitHub Pages site is logged and stored for security purposes.",
+      "p4": "The legal basis for this processing is Art. 6(1)(f) GDPR. My legitimate interest is the secure and technically reliable provision of this website.",
+      "p5": "GitHub Pages acts as the hosting service for this website. As the website consists exclusively of static files, no server-side processing of your input takes place on my part, and I have no access to GitHub's server log files.",
+      "p6": "Further information about GitHub's processing of personal data can be found in the GitHub General Privacy Statement.",
+      "p7": "Because GitHub, Inc. is based in the United States, personal data — in particular your IP address — may be transferred to the USA and therefore to a third country. According to its own statements, GitHub, Inc. is certified under the EU-US Data Privacy Framework, for which the European Commission has issued an adequacy decision pursuant to Art. 45 GDPR. In addition, GitHub relies on the European Commission's standard contractual clauses (Implementing Decision (EU) 2021/914) pursuant to Art. 46(2)(c) GDPR for transfers to third countries."
+    },
+    "s4": {
+      "heading": "4. Contacting Me",
+      "p1": "This website does not provide a contact form. As it is a static website, no input can be collected from you or transmitted to me through the website itself.",
+      "p2": "If you contact me using the email address or telephone number given on this website, the information you provide is processed for the purpose of dealing with and responding to your enquiry. This may include, in particular:",
+      "items": [
+        "your name",
+        "your email address or telephone number",
+        "the content of your message",
+        "any other information you provide voluntarily"
+      ],
+      "p3": "The data is used solely to process and respond to your enquiry unless another use is permitted or required by law.",
+      "p4": "If your enquiry concerns the initiation or performance of a contractual relationship, the legal basis for processing is Art. 6(1)(b) GDPR.",
+      "p5": "For other enquiries, the processing is based on my legitimate interest in responding to enquiries addressed to me pursuant to Art. 6(1)(f) GDPR.",
+      "p6": "Your data will be deleted when your enquiry has been conclusively dealt with and there is no legal obligation or other lawful reason to retain the data for a longer period.",
+      "p7": "Please note that email may be transmitted over the internet in unencrypted form. Please therefore do not send sensitive personal information by email unless this is necessary for your enquiry."
+    },
+    "s5": {
+      "heading": "5. LinkedIn",
+      "p1": "This website contains a link to my profile on LinkedIn.",
+      "p2": "The link is a standard external hyperlink. No LinkedIn plugin or embedded LinkedIn content is used on this website.",
+      "p3": "Data is therefore not transmitted to LinkedIn merely because a page containing the link is displayed. If you click the LinkedIn link, you will leave this website and be redirected to LinkedIn. LinkedIn may then process personal data in accordance with its own privacy policy.",
+      "p4": "LinkedIn is operated in Europe by:",
+      "p5": "For information about how LinkedIn processes personal data, please refer to LinkedIn's Privacy Policy."
+    },
+    "s6": {
+      "heading": "6. Cookies, Local Storage and Tracking",
+      "p1": "This website does not use analytics, advertising or tracking services, and it does not set cookies.",
+      "p2": "The display language you select is stored in your browser's local storage. This information remains in your browser, is not transmitted to me or to any third party, and can be deleted at any time via your browser settings. Storing it is strictly necessary in order to provide the service you requested (Section 25(2) no. 2 TDDDG).",
+      "p3": "No personal data is used for advertising or cross-site tracking by me."
+    },
+    "s7": {
+      "heading": "7. SSL/TLS Encryption",
+      "p1": "This website is served over an encrypted SSL/TLS connection (HTTPS). The encryption is provided by GitHub Pages and protects the transmission of the content you request.",
+      "p2": "You can normally recognise an encrypted connection by the use of \"https://\" in your browser's address bar."
+    },
+    "s8": {
+      "heading": "8. Your Rights under the GDPR",
+      "p1": "Under the GDPR, you have various rights concerning your personal data. Subject to the applicable legal requirements, these include:",
+      "rights": [
+        {
+          "term": "the right of access",
+          "ref": "(Art. 15 GDPR)"
+        },
+        {
+          "term": "the right to rectification",
+          "ref": "(Art. 16 GDPR)"
+        },
+        {
+          "term": "the right to erasure",
+          "ref": "(Art. 17 GDPR)"
+        },
+        {
+          "term": "the right to restriction of processing",
+          "ref": "(Art. 18 GDPR)"
+        },
+        {
+          "term": "the right to data portability",
+          "ref": "(Art. 20 GDPR)"
+        },
+        {
+          "term": "the right to object to processing",
+          "ref": "(Art. 21 GDPR)"
+        }
+      ],
+      "p2": "Where processing is based on consent, you also have the right to withdraw your consent at any time with effect for the future.",
+      "p3": "To exercise your rights, you may contact me using the contact details provided above."
+    },
+    "s9": {
+      "heading": "9. Right to Object to Processing",
+      "p1": "Where personal data is processed on the basis of Art. 6(1)(f) GDPR, you have the right under Art. 21 GDPR to object at any time, on grounds relating to your particular situation, to the processing of your personal data.",
+      "p2": "In the event of an objection, I will no longer process the personal data concerned unless there are compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims."
+    },
+    "s10": {
+      "heading": "10. Right to Lodge a Complaint",
+      "p1": "You have the right under Art. 77 GDPR to lodge a complaint with a data protection supervisory authority if you believe that the processing of your personal data infringes the GDPR.",
+      "p2": "You may in particular contact the supervisory authority responsible for your place of residence, place of work or the place of the alleged infringement."
+    },
+    "s11": {
+      "heading": "11. Changes to this Privacy Policy",
+      "p1": "I may update this Privacy Policy if the functionality of this website changes or if legal or technical developments make an amendment necessary."
+    }
+  }
+}

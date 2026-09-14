@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "ecosylviculture.how — Selvicultura próxima a la naturaleza en la práctica"
+  },
+  "nav": {
+    "home": "Inicio",
+    "contact": "Contacto",
+    "download": "Descargas",
+    "impressum": "Aviso legal"
+  },
+  "language": {
+    "label": "Elegir idioma",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "fr": "Français"
+  },
+  "footer": {
+    "impressum": "Aviso legal",
+    "privacy": "Política de privacidad"
+  },
+  "common": {
+    "phoneLabel": "Teléfono",
+    "emailLabel": "Correo electrónico",
+    "country": {
+      "de": "Alemania",
+      "ie": "Irlanda",
+      "us": "Estados Unidos",
+      "nl": "Países Bajos"
+    }
+  },
+  "home": {
+    "eyebrow": "Selvicultura próxima a la naturaleza",
+    "role": "Monte de cubierta continua, en la práctica",
+    "intro": "Un monte gestionado de forma próxima a la naturaleza lleva consigo su propio seguro de riesgos: las masas mixtas y estructuradas se recuperan del viento, la sequía y el escolítido como no lo hacen los monocultivos coetáneos. Este sitio recoge la práctica que hay detrás: qué señalar, qué dejar en pie y cómo dejar que la siguiente masa crezca bajo la anterior.",
+    "principle": "La idea rectora es sencilla: <strong>trabajar con la masa que se tiene</strong>. Cortar pies sueltos en lugar de superficies, mantener la cubierta cerrada y dejar que la regeneración natural haga la plantación.",
+    "pillars": {
+      "continuousCover": {
+        "term": "Cubierta continua",
+        "text": "Sin cortas a hecho. La entresaca pie a pie o por bosquetes mantiene el suelo sombreado, el microclima estable y el suelo siempre cubierto."
+      },
+      "mixedStands": {
+        "term": "Mezclas adaptadas a la estación",
+        "text": "Varias especies por masa, elegidas según la estación y no según el mercado. La mezcla reparte el riesgo entre plagas, años secos y oscilaciones de precio."
+      },
+      "naturalRegeneration": {
+        "term": "Regeneración natural",
+        "text": "La siguiente generación nace de la semilla del propio monte. No cuesta planta, arraiga sin alteración y se selecciona sola para las condiciones locales."
+      }
+    },
+    "closing": "Todo lo que hay aquí está escrito para quien recorre de verdad sus masas: propietarios forestales, técnicos y cualquiera que reciba un monte gestionado de otra manera durante los últimos cincuenta años."
+  },
+  "contact": {
+    "eyebrow": "Preguntas y consultas",
+    "title": "Contacto",
+    "subtitle": "Cómo contactar conmigo",
+    "intro": "¿Preguntas sobre una masa concreta, sobre la conversión de un monte coetáneo o sobre el material de este sitio? El correo electrónico es la vía más rápida para localizarme. Por teléfono suelo estar disponible en el horario comercial habitual.",
+    "directHeading": "Contacto directo",
+    "addressHeading": "Dirección postal",
+    "note": "Por favor, no envíes datos personales sensibles por correo electrónico si no es necesario para tu consulta. Encontrarás más información sobre el tratamiento de tus datos en la política de privacidad."
+  },
+  "download": {
+    "eyebrow": "Material para el campo",
+    "title": "Descargas",
+    "subtitle": "Guías, tablas y formularios",
+    "intro": "Material para imprimir, llevar al monte y rellenar sobre el terreno. Todo es de uso y difusión libres.",
+    "button": "Descargar",
+    "items": {
+      "fieldGuide": {
+        "title": "Guía de campo: señalamiento",
+        "text": "Una guía breve para señalar pies de corta sin abrir la cubierta."
+      },
+      "speciesTable": {
+        "title": "Tabla de estación y especies",
+        "text": "Qué especie favorecer en cada estación: suelo, disponibilidad de agua y estrés hídrico previsible."
+      },
+      "markingProtocol": {
+        "title": "Acta de señalamiento",
+        "text": "Formulario imprimible para anotar los pies señalados, los diámetros y el volumen de extracción por masa."
+      }
+    },
+    "note": "Esta lista es provisional: los documentos están en preparación y los enlaces todavía no están activos."
+  },
+  "impressum": {
+    "pageTitle": "Aviso legal",
+    "pageSubtitle": "Información conforme al § 5 de la Ley alemana de Servicios Digitales (Digitale-Dienste-Gesetz – DDG)",
+    "heading": "Aviso legal (Español)",
+    "note": "Esta versión en español se ofrece únicamente por comodidad; la versión alemana que figura más arriba es la vinculante.",
+    "contactHeading": "Contacto",
+    "vatHeading": "Número de identificación fiscal (IVA)",
+    "vatText": "Número de identificación a efectos del impuesto sobre el valor añadido conforme al § 27a de la Ley alemana del IVA (UStG):",
+    "disputeHeading": "Resolución de litigios en materia de consumo",
+    "disputeText": "No estoy dispuesto ni obligado a participar en procedimientos de resolución de litigios ante una junta arbitral de consumo.",
+    "contentLiabilityHeading": "Responsabilidad por los contenidos",
+    "contentLiabilityText": "Los contenidos de este sitio web se han elaborado con el mayor cuidado posible. No obstante, no puede asumirse ninguna garantía sobre su exactitud, integridad y actualidad.",
+    "linksLiabilityHeading": "Responsabilidad por enlaces externos",
+    "linksLiabilityText": "Este sitio web puede contener enlaces a sitios web externos de terceros sobre cuyos contenidos no tengo influencia alguna. Por ello no puede asumirse ninguna garantía sobre dichos contenidos ajenos. Del contenido de las páginas enlazadas es siempre responsable el correspondiente proveedor u operador.",
+    "copyrightHeading": "Derechos de autor",
+    "copyrightText": "Los contenidos y obras creados por mí en este sitio web están sujetos, salvo indicación en contrario, a la legislación alemana sobre derechos de autor. La reproducción, edición, distribución o cualquier otro tipo de explotación fuera de los límites legalmente permitidos requiere mi consentimiento previo por escrito."
+  },
+  "privacy": {
+    "pageTitle": "Política de privacidad",
+    "pageSubtitle": "Información sobre el tratamiento de datos personales conforme al RGPD",
+    "heading": "Política de privacidad (Español)",
+    "note": "Esta versión en español se ofrece únicamente por comodidad; la versión alemana que figura más arriba es la vinculante.",
+    "lastUpdated": "Última actualización: {{date}}",
+    "s1": {
+      "heading": "1. La protección de datos de un vistazo",
+      "p1": "La protección de sus datos personales es importante para mí. Esta política de privacidad le informa sobre qué datos personales se recogen al visitar este sitio web y cómo se tratan.",
+      "p2": "Son datos personales todas las informaciones relativas a una persona física identificada o identificable."
+    },
+    "s2": {
+      "heading": "2. Responsable del tratamiento",
+      "p1": "El responsable del tratamiento de datos en este sitio web, en el sentido del Reglamento General de Protección de Datos (RGPD), es:"
+    },
+    "s3": {
+      "heading": "3. Alojamiento web",
+      "p1": "Este sitio web es un sitio puramente estático y se presta a través de GitHub Pages. El proveedor de alojamiento es:",
+      "euEntityIntro": "Dentro del Espacio Económico Europeo, GitHub está representada por:",
+      "p2": "Al visitar este sitio web, GitHub, como proveedor de alojamiento, puede tratar datos técnicos necesarios para la prestación y el funcionamiento seguro y fiable del sitio web. En particular, pueden incluirse:",
+      "items": [
+        "dirección IP o dirección IP anonimizada",
+        "fecha y hora del acceso",
+        "página o archivo solicitado",
+        "tipo y versión del navegador",
+        "sistema operativo utilizado",
+        "URL de referencia (referrer)",
+        "información sobre el proveedor de acceso",
+        "información técnica sobre la solicitud y su respuesta"
+      ],
+      "p3": "El tratamiento de estos datos se realiza para la prestación segura, fiable y técnicamente correcta de este sitio web. Según las indicaciones de GitHub, la dirección IP de quienes visitan un sitio de GitHub Pages se registra y almacena con fines de seguridad.",
+      "p4": "La base jurídica del tratamiento es el art. 6, apdo. 1, letra f) del RGPD. Mi interés legítimo consiste en la prestación segura y técnicamente fiable de mi sitio web.",
+      "p5": "GitHub Pages se utiliza como servicio en el marco del alojamiento web. Dado que este sitio web consta exclusivamente de archivos estáticos, no se realiza por mi parte ningún tratamiento de sus entradas en el servidor; tampoco tengo acceso a los archivos de registro del servidor de GitHub.",
+      "p6": "Encontrará más información sobre el tratamiento de datos personales por parte de GitHub en la política general de privacidad de GitHub (GitHub General Privacy Statement).",
+      "p7": "Dado que GitHub, Inc. tiene su domicilio en los Estados Unidos, pueden transferirse datos personales —en particular su dirección IP— a EE. UU. y, por tanto, a un tercer país. Según sus propias indicaciones, GitHub, Inc. está certificada en el marco del EU-US Data Privacy Framework, respecto del cual la Comisión Europea ha adoptado una decisión de adecuación conforme al art. 45 del RGPD. De forma complementaria, GitHub basa las transferencias a terceros países en las cláusulas contractuales tipo de la Comisión Europea (Decisión de Ejecución (UE) 2021/914), conforme al art. 46, apdo. 2, letra c) del RGPD."
+    },
+    "s4": {
+      "heading": "4. Contacto",
+      "p1": "Este sitio web no ofrece ningún formulario de contacto. Al tratarse de un sitio web estático, a través del propio sitio web no pueden recogerse datos suyos ni transmitírseme.",
+      "p2": "Si se pone en contacto conmigo a través de la dirección de correo electrónico o del número de teléfono indicados en este sitio web, los datos que me facilite se tratarán para gestionar y responder a su consulta. En particular, pueden ser los siguientes datos:",
+      "items": [
+        "su nombre",
+        "su dirección de correo electrónico o su número de teléfono",
+        "el contenido de su mensaje",
+        "otra información que facilite voluntariamente"
+      ],
+      "p3": "Los datos transmitidos se utilizarán exclusivamente para gestionar su consulta, salvo que otro tratamiento esté legalmente permitido o sea necesario.",
+      "p4": "Si su consulta se refiere al inicio o a la ejecución de una relación contractual, el tratamiento se basa en el art. 6, apdo. 1, letra b) del RGPD.",
+      "p5": "En el caso de otras consultas, el tratamiento se basa en mi interés legítimo en gestionar y responder a las consultas que se me dirigen, conforme al art. 6, apdo. 1, letra f) del RGPD.",
+      "p6": "Los datos que usted transmita se suprimirán en cuanto su consulta haya sido tratada de forma definitiva y no existan obligaciones legales de conservación u otros motivos jurídicos para seguir almacenándolos.",
+      "p7": "Tenga en cuenta que la transmisión de correos electrónicos a través de Internet puede realizarse sin cifrar. Por ello, no envíe datos personales sensibles por correo electrónico salvo que sea necesario para su consulta."
+    },
+    "s5": {
+      "heading": "5. LinkedIn",
+      "p1": "Este sitio web contiene un enlace a mi perfil en LinkedIn.",
+      "p2": "Se trata de un hiperenlace externo normal. En este sitio web no se utilizan plugins de LinkedIn ni contenidos incrustados de LinkedIn.",
+      "p3": "Por ello, la mera consulta de una página que contiene un enlace a LinkedIn no transmite datos a LinkedIn. Solo cuando hace clic en el enlace de LinkedIn abandona este sitio web y es redirigido a LinkedIn. A continuación, LinkedIn puede tratar datos personales conforme a sus propias disposiciones de protección de datos.",
+      "p4": "Para los usuarios dentro del Espacio Económico Europeo, el responsable es:",
+      "p5": "Encontrará más información sobre el tratamiento de datos personales por parte de LinkedIn en la política de privacidad de LinkedIn."
+    },
+    "s6": {
+      "heading": "6. Cookies, almacenamiento local, analítica y seguimiento",
+      "p1": "Este sitio web no utiliza servicios de analítica, publicidad ni seguimiento y no instala cookies.",
+      "p2": "El idioma de visualización que usted seleccione se guarda en el almacenamiento local (localStorage) de su navegador. Esta información permanece en su navegador, no se transmite ni a mí ni a terceros y puede eliminarse en cualquier momento desde la configuración de su navegador. Este almacenamiento es estrictamente necesario para prestar el servicio solicitado por usted (§ 25, apdo. 2, n.º 2 de la TDDDG alemana).",
+      "p3": "Por mi parte no se utilizan datos personales para publicidad personalizada ni para el seguimiento entre sitios web."
+    },
+    "s7": {
+      "heading": "7. Cifrado SSL/TLS",
+      "p1": "Este sitio web se sirve a través de una conexión cifrada SSL/TLS (HTTPS). El cifrado lo proporciona GitHub Pages y protege la transmisión de los contenidos que usted consulta.",
+      "p2": "Por lo general, reconocerá una conexión cifrada por el hecho de que la barra de direcciones de su navegador comienza por «https://»."
+    },
+    "s8": {
+      "heading": "8. Sus derechos",
+      "p1": "Con arreglo a los requisitos legales, le asisten en particular los siguientes derechos en relación con sus datos personales:",
+      "rights": [
+        {
+          "term": "Derecho de acceso",
+          "ref": "conforme al art. 15 del RGPD"
+        },
+        {
+          "term": "Derecho de rectificación",
+          "ref": "conforme al art. 16 del RGPD"
+        },
+        {
+          "term": "Derecho de supresión",
+          "ref": "conforme al art. 17 del RGPD"
+        },
+        {
+          "term": "Derecho a la limitación del tratamiento",
+          "ref": "conforme al art. 18 del RGPD"
+        },
+        {
+          "term": "Derecho a la portabilidad de los datos",
+          "ref": "conforme al art. 20 del RGPD"
+        },
+        {
+          "term": "Derecho de oposición",
+          "ref": "conforme al art. 21 del RGPD"
+        }
+      ],
+      "p2": "En la medida en que un tratamiento se base en su consentimiento, tiene además derecho a retirar en cualquier momento el consentimiento prestado, con efectos para el futuro.",
+      "p3": "Para ejercer sus derechos puede dirigirse a mí utilizando los datos de contacto indicados más arriba."
+    },
+    "s9": {
+      "heading": "9. Oposición al tratamiento",
+      "p1": "En la medida en que se traten datos personales sobre la base del art. 6, apdo. 1, letra f) del RGPD, tiene derecho, conforme al art. 21 del RGPD, a oponerse en cualquier momento al tratamiento de sus datos personales por motivos relacionados con su situación particular.",
+      "p2": "En caso de oposición, dejaré de tratar los datos personales afectados, salvo que existan motivos legítimos imperiosos para el tratamiento que prevalezcan sobre sus intereses, derechos y libertades, o que el tratamiento sirva para la formulación, el ejercicio o la defensa de reclamaciones."
+    },
+    "s10": {
+      "heading": "10. Derecho a presentar una reclamación ante una autoridad de control",
+      "p1": "Conforme al art. 77 del RGPD, tiene derecho a presentar una reclamación ante una autoridad de control en materia de protección de datos si considera que el tratamiento de sus datos personales infringe el RGPD.",
+      "p2": "Puede dirigirse, en particular, a la autoridad de control de su lugar de residencia habitual, de su lugar de trabajo o del lugar de la supuesta infracción."
+    },
+    "s11": {
+      "heading": "11. Modificación de esta política de privacidad",
+      "p1": "Esta política de privacidad puede adaptarse si cambian las funciones de este sitio web o si resulta necesaria una adaptación por motivos jurídicos o técnicos."
+    }
+  }
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Site background: layered, low-contrast canopy in light greens. Vector rather
+  than a photo so it stays crisp at any viewport size and costs a few KB.
+  Swap in a photograph (public/forest.jpg) and update .site-background in
+  src/index.css if you get one you like better.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdfefb" />
+      <stop offset="55%" stop-color="#f1f6ec" />
+      <stop offset="100%" stop-color="#e4eede" />
+    </linearGradient>
+    <radialGradient id="sun" cx="0.78" cy="0.12" r="0.45">
+      <stop offset="0%" stop-color="#fff9e2" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#fff9e2" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- One conifer, reused at different scales to build the tree lines. -->
+    <symbol id="fir" viewBox="0 0 100 220">
+      <path d="M50 0 18 78h18L8 150h26L14 208h72l-20-58h26L74 78h18z" />
+      <rect x="45" y="196" width="10" height="24" />
+    </symbol>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#sky)" />
+  <rect width="1600" height="900" fill="url(#sun)" />
+
+  <!-- Far ridge -->
+  <g fill="#cbdec6" opacity="0.75">
+    <path d="M0 470 Q 220 392 430 452 T 860 430 T 1270 462 T 1600 420 V900 H0 Z" />
+    <g opacity="0.55">
+      <use href="#fir" x="120" y="368" width="46" height="101" />
+      <use href="#fir" x="248" y="380" width="38" height="84" />
+      <use href="#fir" x="520" y="360" width="50" height="110" />
+      <use href="#fir" x="612" y="378" width="40" height="88" />
+      <use href="#fir" x="944" y="352" width="48" height="106" />
+      <use href="#fir" x="1052" y="372" width="38" height="84" />
+      <use href="#fir" x="1360" y="346" width="52" height="114" />
+      <use href="#fir" x="1462" y="366" width="42" height="92" />
+    </g>
+  </g>
+
+  <!-- Middle ridge -->
+  <g fill="#aecfa6" opacity="0.8">
+    <path d="M0 600 Q 260 520 520 578 T 1040 556 T 1600 594 V900 H0 Z" />
+    <g opacity="0.6">
+      <use href="#fir" x="60" y="472" width="62" height="136" />
+      <use href="#fir" x="300" y="452" width="70" height="154" />
+      <use href="#fir" x="408" y="486" width="52" height="114" />
+      <use href="#fir" x="744" y="458" width="66" height="145" />
+      <use href="#fir" x="866" y="490" width="50" height="110" />
+      <use href="#fir" x="1180" y="462" width="68" height="150" />
+      <use href="#fir" x="1300" y="494" width="52" height="114" />
+    </g>
+  </g>
+
+  <!-- Near ridge: the darkest band, anchoring the bottom of the viewport -->
+  <g fill="#8bb489" opacity="0.85">
+    <path d="M0 742 Q 300 668 640 726 T 1220 700 T 1600 748 V900 H0 Z" />
+    <g opacity="0.55">
+      <use href="#fir" x="150" y="584" width="86" height="189" />
+      <use href="#fir" x="286" y="620" width="66" height="145" />
+      <use href="#fir" x="560" y="596" width="80" height="176" />
+      <use href="#fir" x="980" y="576" width="90" height="198" />
+      <use href="#fir" x="1118" y="616" width="66" height="145" />
+      <use href="#fir" x="1436" y="592" width="84" height="185" />
+    </g>
+  </g>
+
+  <!-- Understorey haze so the bottom edge fades instead of ending in a hard line -->
+  <rect y="720" width="1600" height="180" fill="#7ba97c" opacity="0.35" />
+</svg>

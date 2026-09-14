@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "ecosylviculture.how — La sylviculture proche de la nature en pratique"
+  },
+  "nav": {
+    "home": "Accueil",
+    "contact": "Contact",
+    "download": "Téléchargements",
+    "impressum": "Mentions légales"
+  },
+  "language": {
+    "label": "Choisir la langue",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "fr": "Français"
+  },
+  "footer": {
+    "impressum": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "common": {
+    "phoneLabel": "Téléphone",
+    "emailLabel": "E-mail",
+    "country": {
+      "de": "Allemagne",
+      "ie": "Irlande",
+      "us": "États-Unis",
+      "nl": "Pays-Bas"
+    }
+  },
+  "home": {
+    "eyebrow": "Sylviculture proche de la nature",
+    "role": "La futaie irrégulière, en pratique",
+    "intro": "Une forêt gérée de façon proche de la nature porte en elle sa propre assurance contre les risques : les peuplements mélangés et structurés se remettent de la tempête, de la sécheresse et du scolyte comme ne le font pas les monocultures équiennes. Ce site rassemble la pratique qui sous-tend cette approche : ce qu'il faut marquer, ce qu'il faut laisser sur pied et comment laisser le peuplement suivant s'installer sous l'ancien.",
+    "principle": "L'idée directrice est simple : <strong>travailler avec le peuplement dont on dispose</strong>. Récolter des arbres isolés plutôt que des surfaces, maintenir le couvert fermé et laisser la régénération naturelle faire la plantation.",
+    "pillars": {
+      "continuousCover": {
+        "term": "Couvert continu",
+        "text": "Pas de coupe rase. Le jardinage pied à pied ou par bouquets maintient le sol forestier ombragé, le microclimat stable et le sol couvert en permanence."
+      },
+      "mixedStands": {
+        "term": "Mélanges adaptés à la station",
+        "text": "Plusieurs essences par peuplement, choisies pour la station et non pour le marché. Le mélange répartit le risque entre ravageurs, années sèches et variations de prix."
+      },
+      "naturalRegeneration": {
+        "term": "Régénération naturelle",
+        "text": "La génération suivante naît des semences déjà présentes sur place. Elle ne coûte aucun plant, s'enracine sans perturbation et se sélectionne d'elle-même selon les conditions locales."
+      }
+    },
+    "closing": "Tout ce qui se trouve ici est écrit pour celles et ceux qui parcourent réellement leurs peuplements : propriétaires forestiers, forestiers et toute personne reprenant une forêt gérée autrement pendant les cinquante dernières années."
+  },
+  "contact": {
+    "eyebrow": "Questions et demandes",
+    "title": "Contact",
+    "subtitle": "Comment me joindre",
+    "intro": "Une question sur un peuplement précis, sur la conversion d'une futaie régulière ou sur le matériel de ce site ? L'e-mail est le moyen le plus rapide de me joindre. Par téléphone, je suis généralement disponible aux heures ouvrables habituelles.",
+    "directHeading": "Contact direct",
+    "addressHeading": "Adresse postale",
+    "note": "Merci de ne pas envoyer de données personnelles sensibles par e-mail si cela n'est pas nécessaire à votre demande. Vous trouverez de plus amples informations sur le traitement de vos données dans la politique de confidentialité."
+  },
+  "download": {
+    "eyebrow": "Matériel de terrain",
+    "title": "Téléchargements",
+    "subtitle": "Guides, tableaux et formulaires",
+    "intro": "Du matériel à imprimer, à emporter en forêt et à remplir sur place. Tout ici est libre d'utilisation et de diffusion.",
+    "button": "Télécharger",
+    "items": {
+      "fieldGuide": {
+        "title": "Guide de terrain : le martelage",
+        "text": "Un guide court pour marquer les arbres à récolter sans ouvrir le couvert."
+      },
+      "speciesTable": {
+        "title": "Tableau station-essences",
+        "text": "Quelle essence favoriser sur quelle station : sol, alimentation en eau et stress hydrique attendu."
+      },
+      "markingProtocol": {
+        "title": "Fiche de martelage",
+        "text": "Formulaire imprimable pour relever les arbres martelés, les diamètres et le volume prélevé par peuplement."
+      }
+    },
+    "note": "Cette liste est provisoire : les documents sont en préparation et les liens ne sont pas encore actifs."
+  },
+  "impressum": {
+    "pageTitle": "Mentions légales",
+    "pageSubtitle": "Informations conformément au § 5 de la loi allemande sur les services numériques (Digitale-Dienste-Gesetz – DDG)",
+    "heading": "Mentions légales (Français)",
+    "note": "Cette version française est fournie par commodité ; la version allemande ci-dessus fait foi.",
+    "contactHeading": "Contact",
+    "vatHeading": "Numéro d'identification à la TVA",
+    "vatText": "Numéro d'identification à la taxe sur la valeur ajoutée conformément au § 27a de la loi allemande relative à la TVA (UStG) :",
+    "disputeHeading": "Règlement des litiges de consommation",
+    "disputeText": "Je ne suis ni disposé ni tenu de participer à une procédure de règlement des litiges devant un organe de conciliation pour les consommateurs.",
+    "contentLiabilityHeading": "Responsabilité concernant les contenus",
+    "contentLiabilityText": "Les contenus de ce site ont été élaborés avec le plus grand soin. Aucune garantie ne peut toutefois être donnée quant à leur exactitude, leur exhaustivité et leur actualité.",
+    "linksLiabilityHeading": "Responsabilité concernant les liens externes",
+    "linksLiabilityText": "Ce site peut contenir des liens vers des sites externes de tiers sur le contenu desquels je n'ai aucune influence. Aucune garantie ne peut donc être donnée quant à ces contenus tiers. Le fournisseur ou l'exploitant du site lié est toujours responsable de son contenu.",
+    "copyrightHeading": "Droit d'auteur",
+    "copyrightText": "Sauf indication contraire, les contenus et œuvres que j'ai créés sur ce site sont soumis au droit d'auteur allemand. La reproduction, la modification, la diffusion ou toute autre forme d'exploitation en dehors des limites autorisées par la loi requiert mon accord écrit préalable."
+  },
+  "privacy": {
+    "pageTitle": "Politique de confidentialité",
+    "pageSubtitle": "Informations sur le traitement des données à caractère personnel conformément au RGPD",
+    "heading": "Politique de confidentialité (Français)",
+    "note": "Cette version française est fournie par commodité ; la version allemande ci-dessus fait foi.",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "s1": {
+      "heading": "1. La protection des données en un coup d'œil",
+      "p1": "La protection de vos données à caractère personnel me tient à cœur. La présente politique de confidentialité explique quelles données à caractère personnel sont collectées lors de votre visite sur ce site et comment elles sont traitées.",
+      "p2": "On entend par données à caractère personnel toute information se rapportant à une personne physique identifiée ou identifiable."
+    },
+    "s2": {
+      "heading": "2. Responsable du traitement",
+      "p1": "Le responsable du traitement des données sur ce site au sens du règlement général sur la protection des données (RGPD) est :"
+    },
+    "s3": {
+      "heading": "3. Hébergement",
+      "p1": "Ce site est un site purement statique, diffusé via GitHub Pages. L'hébergeur est :",
+      "euEntityIntro": "Au sein de l'Espace économique européen, GitHub est représenté par :",
+      "p2": "Lorsque vous consultez ce site, GitHub, en tant qu'hébergeur, peut traiter les informations techniques nécessaires à la diffusion du site et à son fonctionnement sûr et fiable. Il peut s'agir notamment des éléments suivants :",
+      "items": [
+        "adresse IP ou adresse IP anonymisée",
+        "date et heure de l'accès",
+        "page ou fichier demandé",
+        "type et version du navigateur",
+        "système d'exploitation",
+        "informations de provenance (referrer)",
+        "informations relatives au fournisseur à l'origine de la requête",
+        "informations techniques relatives à la requête et à la réponse"
+      ],
+      "p3": "Le traitement de ces informations est nécessaire à l'exploitation sûre, fiable et efficace du site. Selon GitHub, l'adresse IP des visiteurs d'un site GitHub Pages est enregistrée et conservée à des fins de sécurité.",
+      "p4": "La base juridique de ce traitement est l'art. 6, par. 1, point f) du RGPD. Mon intérêt légitime réside dans la mise à disposition sûre et techniquement fiable de ce site.",
+      "p5": "GitHub Pages assure l'hébergement de ce site. Le site étant exclusivement composé de fichiers statiques, aucun traitement de vos saisies n'a lieu côté serveur de mon fait, et je n'ai pas accès aux fichiers journaux des serveurs de GitHub.",
+      "p6": "Vous trouverez de plus amples informations sur le traitement des données à caractère personnel par GitHub dans la déclaration générale de confidentialité de GitHub.",
+      "p7": "GitHub, Inc. étant établie aux États-Unis, des données à caractère personnel — en particulier votre adresse IP — peuvent être transférées aux États-Unis et donc vers un pays tiers. Selon ses propres déclarations, GitHub, Inc. est certifiée au titre du cadre de protection des données UE–États-Unis (EU-US Data Privacy Framework), pour lequel la Commission européenne a adopté une décision d'adéquation conformément à l'art. 45 du RGPD. En outre, pour les transferts vers des pays tiers, GitHub s'appuie sur les clauses contractuelles types de la Commission européenne (décision d'exécution (UE) 2021/914) conformément à l'art. 46, par. 2, point c) du RGPD."
+    },
+    "s4": {
+      "heading": "4. Prise de contact",
+      "p1": "Ce site ne propose pas de formulaire de contact. S'agissant d'un site statique, aucune saisie ne peut être collectée auprès de vous ni m'être transmise par l'intermédiaire du site lui-même.",
+      "p2": "Si vous me contactez à l'adresse e-mail ou au numéro de téléphone indiqués sur ce site, les informations que vous fournissez sont traitées afin de traiter votre demande et d'y répondre. Il peut s'agir notamment des éléments suivants :",
+      "items": [
+        "votre nom",
+        "votre adresse e-mail ou votre numéro de téléphone",
+        "le contenu de votre message",
+        "toute autre information que vous communiquez volontairement"
+      ],
+      "p3": "Les données sont utilisées uniquement pour traiter votre demande et y répondre, sauf si une autre utilisation est autorisée ou requise par la loi.",
+      "p4": "Si votre demande concerne la conclusion ou l'exécution d'une relation contractuelle, la base juridique du traitement est l'art. 6, par. 1, point b) du RGPD.",
+      "p5": "Pour les autres demandes, le traitement repose sur mon intérêt légitime à répondre aux demandes qui me sont adressées, conformément à l'art. 6, par. 1, point f) du RGPD.",
+      "p6": "Vos données sont supprimées lorsque votre demande a été définitivement traitée et qu'aucune obligation légale ni aucun autre motif légitime n'impose une conservation plus longue.",
+      "p7": "Veuillez noter que les e-mails peuvent être transmis sur Internet sous une forme non chiffrée. Merci donc de ne pas envoyer d'informations personnelles sensibles par e-mail, sauf si cela est nécessaire à votre demande."
+    },
+    "s5": {
+      "heading": "5. LinkedIn",
+      "p1": "Ce site contient un lien vers mon profil sur LinkedIn.",
+      "p2": "Il s'agit d'un lien hypertexte externe classique. Aucun plugin LinkedIn ni contenu LinkedIn intégré n'est utilisé sur ce site.",
+      "p3": "Aucune donnée n'est donc transmise à LinkedIn du seul fait de l'affichage d'une page contenant ce lien. Si vous cliquez sur le lien LinkedIn, vous quittez ce site et êtes redirigé vers LinkedIn. LinkedIn peut alors traiter des données à caractère personnel conformément à sa propre politique de confidentialité.",
+      "p4": "LinkedIn est exploité en Europe par :",
+      "p5": "Pour savoir comment LinkedIn traite les données à caractère personnel, veuillez consulter la politique de confidentialité de LinkedIn."
+    },
+    "s6": {
+      "heading": "6. Cookies, stockage local et suivi",
+      "p1": "Ce site n'utilise aucun service de mesure d'audience, de publicité ou de suivi, et ne dépose aucun cookie.",
+      "p2": "La langue d'affichage que vous sélectionnez est enregistrée dans le stockage local de votre navigateur. Cette information reste dans votre navigateur, n'est transmise ni à moi ni à un tiers, et peut être supprimée à tout moment via les paramètres de votre navigateur. Son stockage est strictement nécessaire à la fourniture du service que vous avez demandé (§ 25, al. 2, n° 2 TDDDG).",
+      "p3": "Aucune donnée à caractère personnel n'est utilisée par mes soins à des fins publicitaires ou de suivi intersites."
+    },
+    "s7": {
+      "heading": "7. Chiffrement SSL/TLS",
+      "p1": "Ce site est diffusé via une connexion chiffrée SSL/TLS (HTTPS). Le chiffrement est assuré par GitHub Pages et protège la transmission des contenus que vous demandez.",
+      "p2": "Vous reconnaissez généralement une connexion chiffrée à la mention « https:// » dans la barre d'adresse de votre navigateur."
+    },
+    "s8": {
+      "heading": "8. Vos droits au titre du RGPD",
+      "p1": "Le RGPD vous confère différents droits concernant vos données à caractère personnel. Sous réserve des conditions légales applicables, il s'agit notamment des droits suivants :",
+      "rights": [
+        {
+          "term": "le droit d'accès",
+          "ref": "(art. 15 du RGPD)"
+        },
+        {
+          "term": "le droit de rectification",
+          "ref": "(art. 16 du RGPD)"
+        },
+        {
+          "term": "le droit à l'effacement",
+          "ref": "(art. 17 du RGPD)"
+        },
+        {
+          "term": "le droit à la limitation du traitement",
+          "ref": "(art. 18 du RGPD)"
+        },
+        {
+          "term": "le droit à la portabilité des données",
+          "ref": "(art. 20 du RGPD)"
+        },
+        {
+          "term": "le droit d'opposition au traitement",
+          "ref": "(art. 21 du RGPD)"
+        }
+      ],
+      "p2": "Lorsque le traitement repose sur le consentement, vous avez également le droit de retirer votre consentement à tout moment, avec effet pour l'avenir.",
+      "p3": "Pour exercer vos droits, vous pouvez me contacter aux coordonnées indiquées ci-dessus."
+    },
+    "s9": {
+      "heading": "9. Droit d'opposition au traitement",
+      "p1": "Lorsque des données à caractère personnel sont traitées sur le fondement de l'art. 6, par. 1, point f) du RGPD, vous avez le droit, en vertu de l'art. 21 du RGPD, de vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos données à caractère personnel.",
+      "p2": "En cas d'opposition, je ne traiterai plus les données à caractère personnel concernées, à moins qu'il n'existe des motifs légitimes impérieux pour le traitement qui prévalent sur vos intérêts, droits et libertés, ou que le traitement ne serve à la constatation, à l'exercice ou à la défense de droits en justice."
+    },
+    "s10": {
+      "heading": "10. Droit d'introduire une réclamation",
+      "p1": "Vous avez le droit, en vertu de l'art. 77 du RGPD, d'introduire une réclamation auprès d'une autorité de contrôle en matière de protection des données si vous estimez que le traitement de vos données à caractère personnel constitue une violation du RGPD.",
+      "p2": "Vous pouvez notamment vous adresser à l'autorité de contrôle compétente pour votre lieu de résidence, votre lieu de travail ou le lieu de la violation présumée."
+    },
+    "s11": {
+      "heading": "11. Modifications de la présente politique de confidentialité",
+      "p1": "Je peux être amené à actualiser la présente politique de confidentialité si les fonctionnalités de ce site évoluent ou si des évolutions juridiques ou techniques rendent une modification nécessaire."
+    }
+  }
+}
