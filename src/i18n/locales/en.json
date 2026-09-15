@@ -4,6 +4,7 @@
   },
   "nav": {
     "home": "Home",
+    "gallery": "Gallery",
     "contact": "Contact",
     "download": "Download",
     "impressum": "Legal Notice"
@@ -50,6 +51,31 @@
       }
     },
     "closing": "Everything here is written for people who actually walk their stands: forest owners, foresters, and anyone taking over woodland that was managed differently for the last fifty years."
+  },
+  "gallery": {
+    "eyebrow": "Pictures from the stand",
+    "title": "Gallery",
+    "subtitle": "What the practice looks like",
+    "intro": "A few images of the kind of forest this site is about — closed canopy, several layers, plenty of structure — together with the book the approach is built on.",
+    "items": {
+      "forestPath": {
+        "alt": "Forest track leading into a misty, tall mixed stand with dense green ground vegetation",
+        "caption": "An extraction track through a closed stand. Access for single-tree harvesting is planned once and used for decades, so the rest of the soil is never driven on."
+      },
+      "oldGrowth": {
+        "alt": "Old, twisted trees over moss-covered boulders in dense shade",
+        "caption": "Deadwood, moss and old trunks: the structure nobody pays for, and the part of the stand that carries most of its species."
+      },
+      "ravineStream": {
+        "alt": "Broadleaf forest on a slope with a small waterfall and stream running through it",
+        "caption": "Ravine forest along a stream. Wet sites like this are left alone — they regenerate themselves and hold the slope together."
+      },
+      "book": {
+        "alt": "Cover of the book Sylviculture d'écosystème – La sylviculture sauvage by Marie-Stella Duchiron",
+        "caption": "Marie-Stella Duchiron, “Sylviculture d'écosystème — La sylviculture sauvage” (EDP Sciences). The reference behind most of what is described here."
+      }
+    },
+    "note": "Photographs are shown for illustration; click an image to open it at full size."
   },
   "contact": {
     "eyebrow": "Questions & enquiries",

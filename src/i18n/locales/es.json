@@ -4,6 +4,7 @@
   },
   "nav": {
     "home": "Inicio",
+    "gallery": "Galería",
     "contact": "Contacto",
     "download": "Descargas",
     "impressum": "Aviso legal"
@@ -50,6 +51,31 @@
       }
     },
     "closing": "Todo lo que hay aquí está escrito para quien recorre de verdad sus masas: propietarios forestales, técnicos y cualquiera que reciba un monte gestionado de otra manera durante los últimos cincuenta años."
+  },
+  "gallery": {
+    "eyebrow": "Imágenes del monte",
+    "title": "Galería",
+    "subtitle": "Cómo se ve la práctica",
+    "intro": "Algunas imágenes del tipo de bosque del que trata este sitio —cubierta continua, varios estratos, mucha estructura— junto con el libro en el que se basa el planteamiento.",
+    "items": {
+      "forestPath": {
+        "alt": "Pista forestal que se adentra en una masa mixta alta y con niebla, con vegetación verde y densa en el suelo",
+        "caption": "Una vía de saca en una masa de cubierta cerrada. La red de acceso para la corta pie a pie se traza una vez y se usa durante décadas: el resto del suelo no se pisa nunca con maquinaria."
+      },
+      "oldGrowth": {
+        "alt": "Árboles viejos y retorcidos sobre bloques cubiertos de musgo en sombra densa",
+        "caption": "Madera muerta, musgo y troncos viejos: la estructura que nadie paga y la parte de la masa que sostiene la mayor parte de las especies."
+      },
+      "ravineStream": {
+        "alt": "Bosque de frondosas en ladera con una pequeña cascada y un arroyo",
+        "caption": "Bosque de barranco junto a un arroyo. Estos enclaves húmedos se dejan tranquilos: se regeneran solos y sujetan la ladera."
+      },
+      "book": {
+        "alt": "Portada del libro «Sylviculture d'écosystème – La sylviculture sauvage», de Marie-Stella Duchiron",
+        "caption": "Marie-Stella Duchiron, «Sylviculture d'écosystème — La sylviculture sauvage» (EDP Sciences). La referencia detrás de casi todo lo que se describe aquí."
+      }
+    },
+    "note": "Las fotografías son ilustrativas; pulsa una imagen para abrirla a tamaño completo."
   },
   "contact": {
     "eyebrow": "Preguntas y consultas",

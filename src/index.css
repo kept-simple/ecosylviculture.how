@@ -124,6 +124,11 @@ body {
   line-height: 1.7;
 }
 
+/* Wider variant for pages that hold a grid rather than a column of prose. */
+.text-panel-wide {
+  max-width: 64rem;
+}
+
 /* Buttons are anchors too (they carry href), so leave their own colours alone. */
 .text-panel a:not(.btn) {
   color: var(--accent-strong);
@@ -192,6 +197,61 @@ body {
 .pillar {
   padding-left: 1rem;
   border-left: 3px solid rgba(47, 125, 79, 0.35);
+}
+
+/* Gallery: image cards that reflow from one to three columns. */
+.gallery-grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+}
+
+.gallery-item {
+  margin: 0;
+  padding: 0.75rem;
+  border: 1px solid var(--panel-border);
+  border-radius: 0.75rem;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.gallery-item figcaption {
+  margin-top: 0.6rem;
+  color: var(--ink-muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Uniform tile height, so mixed source formats still line up in the grid. */
+.gallery-image {
+  display: block;
+  width: 100%;
+  height: 14rem;
+  border-radius: 0.5rem;
+  transition: transform 150ms ease;
+}
+
+.gallery-image-cover {
+  object-fit: cover;
+}
+
+/* The book cover must not be cropped, so it is letterboxed instead. */
+.gallery-image-contain {
+  object-fit: contain;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.gallery-item a:hover .gallery-image {
+  transform: scale(1.02);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gallery-image {
+    transition: none;
+  }
+
+  .gallery-item a:hover .gallery-image {
+    transform: none;
+  }
 }
 
 /* Download: one card per file. */

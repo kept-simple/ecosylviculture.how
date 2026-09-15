@@ -4,6 +4,7 @@
   },
   "nav": {
     "home": "Accueil",
+    "gallery": "Galerie",
     "contact": "Contact",
     "download": "Téléchargements",
     "impressum": "Mentions légales"
@@ -50,6 +51,31 @@
       }
     },
     "closing": "Tout ce qui se trouve ici est écrit pour celles et ceux qui parcourent réellement leurs peuplements : propriétaires forestiers, forestiers et toute personne reprenant une forêt gérée autrement pendant les cinquante dernières années."
+  },
+  "gallery": {
+    "eyebrow": "Images du peuplement",
+    "title": "Galerie",
+    "subtitle": "À quoi ressemble la pratique",
+    "intro": "Quelques images du type de forêt dont il est question ici — couvert continu, plusieurs strates, beaucoup de structure — ainsi que l'ouvrage sur lequel la démarche s'appuie.",
+    "items": {
+      "forestPath": {
+        "alt": "Piste forestière s'enfonçant dans un haut peuplement mélangé sous la brume, avec une végétation basse dense",
+        "caption": "Un cloisonnement dans un peuplement à couvert fermé. Le réseau de desserte pour la coupe pied à pied est tracé une fois et utilisé pendant des décennies : le reste du sol n'est jamais circulé."
+      },
+      "oldGrowth": {
+        "alt": "Vieux arbres tortueux au-dessus de blocs couverts de mousse, à l'ombre dense",
+        "caption": "Bois mort, mousse et vieux fûts : la structure que personne ne paie, et la part du peuplement qui porte le plus d'espèces."
+      },
+      "ravineStream": {
+        "alt": "Forêt de feuillus en pente avec une petite cascade et un ruisseau",
+        "caption": "Forêt de ravin le long d'un ruisseau. Ces stations humides sont laissées tranquilles : elles se régénèrent seules et tiennent le versant."
+      },
+      "book": {
+        "alt": "Couverture du livre « Sylviculture d'écosystème – La sylviculture sauvage » de Marie-Stella Duchiron",
+        "caption": "Marie-Stella Duchiron, « Sylviculture d'écosystème — La sylviculture sauvage » (EDP Sciences). La référence derrière l'essentiel de ce qui est décrit ici."
+      }
+    },
+    "note": "Les photographies sont données à titre d'illustration ; cliquez sur une image pour l'ouvrir en taille réelle."
   },
   "contact": {
     "eyebrow": "Questions et demandes",

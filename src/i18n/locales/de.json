@@ -4,6 +4,7 @@
   },
   "nav": {
     "home": "Startseite",
+    "gallery": "Galerie",
     "contact": "Kontakt",
     "download": "Download",
     "impressum": "Impressum"
@@ -50,6 +51,31 @@
       }
     },
     "closing": "Alles hier ist für Menschen geschrieben, die ihre Bestände tatsächlich ablaufen: Waldbesitzerinnen und Waldbesitzer, Förstereien und alle, die Wald übernehmen, der fünfzig Jahre lang anders bewirtschaftet wurde."
+  },
+  "gallery": {
+    "eyebrow": "Bilder aus dem Bestand",
+    "title": "Galerie",
+    "subtitle": "Wie die Praxis aussieht",
+    "intro": "Einige Bilder von der Art Wald, um die es auf dieser Seite geht — geschlossenes Kronendach, mehrere Schichten, viel Struktur — dazu das Buch, auf dem der Ansatz aufbaut.",
+    "items": {
+      "forestPath": {
+        "alt": "Waldweg, der in einen nebligen, hohen Mischbestand mit dichter grüner Bodenvegetation führt",
+        "caption": "Eine Rückegasse durch einen geschlossenen Bestand. Die Erschließung für die Einzelbaumnutzung wird einmal angelegt und jahrzehntelang genutzt — der übrige Boden wird nie befahren."
+      },
+      "oldGrowth": {
+        "alt": "Alte, krumme Bäume über moosbewachsenen Felsblöcken im dichten Schatten",
+        "caption": "Totholz, Moos und alte Stämme: die Struktur, die niemand bezahlt, und der Teil des Bestandes, der die meisten Arten trägt."
+      },
+      "ravineStream": {
+        "alt": "Laubwald an einem Hang mit kleinem Wasserfall und Bach",
+        "caption": "Schluchtwald an einem Bach. Solche feuchten Standorte bleiben unberührt — sie verjüngen sich selbst und halten den Hang zusammen."
+      },
+      "book": {
+        "alt": "Cover des Buches „Sylviculture d'écosystème – La sylviculture sauvage“ von Marie-Stella Duchiron",
+        "caption": "Marie-Stella Duchiron, „Sylviculture d'écosystème — La sylviculture sauvage“ (EDP Sciences). Die Grundlage für das meiste, was hier beschrieben wird."
+      }
+    },
+    "note": "Die Fotos dienen der Illustration; ein Klick öffnet das Bild in voller Größe."
   },
   "contact": {
     "eyebrow": "Fragen & Anfragen",
