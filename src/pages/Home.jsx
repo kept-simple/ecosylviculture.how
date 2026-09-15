@@ -13,7 +13,7 @@ export default function Home() {
           <div>
             <p className="text-panel-eyebrow">{t('home.eyebrow')}</p>
             <h1 className="text-panel-title">
-              ecosylviculture.how
+              {t('home.title')}
               <span className="text-panel-subtitle">{t('home.role')}</span>
             </h1>
           </div>
