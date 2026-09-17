@@ -1,13 +1,11 @@
 // Locale-independent contact data. Country names live in the catalogues
 // (`common.country.*`) because those do translate.
 export const owner = {
-  name: 'Dr. Helge Dzierzon',
-  street: 'Krukower Weg 1',
-  city: '21483 Gülzow',
-  countryKey: 'common.country.de',
-  phone: '+49 160 1040441',
-  email: 'hdzierz@gmail.com',
-  vatId: 'DE204894112',
+  name: 'Dr. Marie-Stella Duchiron',
+  street: '8 Avenue Daniel Lesueur',
+  city: 'F-75007 Paris',
+  countryKey: 'common.country.fr',
+  email: 'duchiron@futaie-irreguliere.com',
 }
 
 // The site is published as a static GitHub Pages site, so GitHub is the host.

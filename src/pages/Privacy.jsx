@@ -50,8 +50,6 @@ function LegalBody({ t, lang }) {
       <p>{t('privacy.s2.p1')}</p>
       <Address t={t} entity={owner} />
       <p className="mb-0">
-        {t('common.phoneLabel')}: {owner.phone}
-        <br />
         {t('common.emailLabel')}: <a href={`mailto:${owner.email}`}>{owner.email}</a>
       </p>
 

@@ -23,16 +23,7 @@ function LegalBody({ t, lang }) {
 
       <h3 className="h5 mt-4">{t('impressum.contactHeading')}</h3>
       <p className="mb-0">
-        {t('common.phoneLabel')}: {owner.phone}
-        <br />
         {t('common.emailLabel')}: <a href={`mailto:${owner.email}`}>{owner.email}</a>
-      </p>
-
-      <h3 className="h5 mt-4">{t('impressum.vatHeading')}</h3>
-      <p className="mb-0">
-        {t('impressum.vatText')}
-        <br />
-        <strong>{owner.vatId}</strong>
       </p>
 
       <h3 className="h5 mt-4">{t('impressum.disputeHeading')}</h3>
