@@ -86,26 +86,31 @@
     "note": "Please do not send sensitive personal data by email unless it is necessary for your enquiry. For more information on how your data is processed, see the privacy policy."
   },
   "download": {
-    "eyebrow": "Material for the field",
+    "eyebrow": "Software for stand analysis",
     "title": "Download",
-    "subtitle": "Guides, tables and forms",
-    "intro": "Material you can print, take into the stand and fill in on site. Everything here is free to use and to pass on.",
+    "subtitle": "msgraph for Windows, Linux and QGIS",
+    "intro": "msgraph analyses forest inventory data spatially: crown polygons, distances between neighbouring trees and histograms of stand attributes. Pick the build for your system.",
     "button": "Download",
+    "buttonRelease": "Release page",
     "items": {
-      "fieldGuide": {
-        "title": "Field guide: selective marking",
-        "text": "A short guide to marking single trees for harvest without opening the canopy."
+      "windows": {
+        "title": "msgraph for Windows",
+        "text": "Standalone 64-bit executable. Download it and run it; there is nothing to install."
       },
-      "speciesTable": {
-        "title": "Site and species table",
-        "text": "Which species to favour on which site — soil, water supply and expected drought stress."
+      "linux": {
+        "title": "msgraph for Linux",
+        "text": "Standalone binary for x86_64. Make it executable with chmod +x and run it from the shell."
       },
-      "markingProtocol": {
-        "title": "Marking protocol",
-        "text": "Printable form for recording marked trees, diameters and removal volume per stand."
+      "qgisPlugin": {
+        "title": "msgraph QGIS plugin",
+        "text": "Runs msgraph inside QGIS 3. Take the mstella_<version>.zip from the release page and install it via Plugins → Manage and Install Plugins → Install from ZIP."
       }
     },
-    "note": "This list is a placeholder — the documents are still being prepared and the links are not live yet."
+    "pinned": "Every link on this page points at version {{version}}, not at the newest release.",
+    "pinnedLatest": "Show the latest version",
+    "versionInvalid": "“{{value}}” is not a version tag, so the latest release is shown instead.",
+    "note": "The links always point at the newest release, so a bookmark stays valid. What changed in a version is listed in its release notes.",
+    "notePinned": "A pinned version is requested through the address of this page (?version=v0.5.2). If that release does not exist, GitHub answers with “not found”."
   },
   "impressum": {
     "pageTitle": "Legal Notice",

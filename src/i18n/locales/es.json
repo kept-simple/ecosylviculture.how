@@ -86,26 +86,31 @@
     "note": "Por favor, no envíes datos personales sensibles por correo electrónico si no es necesario para tu consulta. Encontrarás más información sobre el tratamiento de tus datos en la política de privacidad."
   },
   "download": {
-    "eyebrow": "Material para el campo",
+    "eyebrow": "Software para el análisis de masas",
     "title": "Descargas",
-    "subtitle": "Guías, tablas y formularios",
-    "intro": "Material para imprimir, llevar al monte y rellenar sobre el terreno. Todo es de uso y difusión libres.",
+    "subtitle": "msgraph para Windows, Linux y QGIS",
+    "intro": "msgraph analiza datos de inventario forestal en el espacio: polígonos de copa, distancias entre árboles vecinos e histogramas de atributos de la masa. Elija la versión para su sistema.",
     "button": "Descargar",
+    "buttonRelease": "Página de la versión",
     "items": {
-      "fieldGuide": {
-        "title": "Guía de campo: señalamiento",
-        "text": "Una guía breve para señalar pies de corta sin abrir la cubierta."
+      "windows": {
+        "title": "msgraph para Windows",
+        "text": "Ejecutable autónomo de 64 bits. Descárguelo y ejecútelo; no hay nada que instalar."
       },
-      "speciesTable": {
-        "title": "Tabla de estación y especies",
-        "text": "Qué especie favorecer en cada estación: suelo, disponibilidad de agua y estrés hídrico previsible."
+      "linux": {
+        "title": "msgraph para Linux",
+        "text": "Binario autónomo para x86_64. Dele permiso de ejecución con chmod +x y láncelo desde la terminal."
       },
-      "markingProtocol": {
-        "title": "Acta de señalamiento",
-        "text": "Formulario imprimible para anotar los pies señalados, los diámetros y el volumen de extracción por masa."
+      "qgisPlugin": {
+        "title": "Complemento msgraph para QGIS",
+        "text": "Ejecuta msgraph dentro de QGIS 3. Descargue mstella_<versión>.zip de la página de la versión e instálelo con Complementos → Administrar e instalar complementos → Instalar a partir de ZIP."
       }
     },
-    "note": "Esta lista es provisional: los documentos están en preparación y los enlaces todavía no están activos."
+    "pinned": "Todos los enlaces de esta página apuntan a la versión {{version}}, no a la más reciente.",
+    "pinnedLatest": "Mostrar la última versión",
+    "versionInvalid": "«{{value}}» no es una etiqueta de versión, por lo que se muestra la más reciente.",
+    "note": "Los enlaces apuntan siempre a la versión más reciente, así que un marcador sigue siendo válido. Los cambios de cada versión se detallan en sus notas de publicación.",
+    "notePinned": "Una versión concreta se solicita mediante la dirección de esta página (?version=v0.5.2). Si esa versión no existe, GitHub responde «no encontrado»."
   },
   "impressum": {
     "pageTitle": "Aviso legal",

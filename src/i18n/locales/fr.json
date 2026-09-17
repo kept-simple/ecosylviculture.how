@@ -86,26 +86,31 @@
     "note": "Merci de ne pas envoyer de données personnelles sensibles par e-mail si cela n'est pas nécessaire à votre demande. Vous trouverez de plus amples informations sur le traitement de vos données dans la politique de confidentialité."
   },
   "download": {
-    "eyebrow": "Matériel de terrain",
+    "eyebrow": "Logiciel d'analyse des peuplements",
     "title": "Téléchargements",
-    "subtitle": "Guides, tableaux et formulaires",
-    "intro": "Du matériel à imprimer, à emporter en forêt et à remplir sur place. Tout ici est libre d'utilisation et de diffusion.",
+    "subtitle": "msgraph pour Windows, Linux et QGIS",
+    "intro": "msgraph analyse les données d'inventaire dans l'espace : polygones de houppier, distances entre arbres voisins et histogrammes des attributs du peuplement. Choisissez la version adaptée à votre système.",
     "button": "Télécharger",
+    "buttonRelease": "Page de la version",
     "items": {
-      "fieldGuide": {
-        "title": "Guide de terrain : le martelage",
-        "text": "Un guide court pour marquer les arbres à récolter sans ouvrir le couvert."
+      "windows": {
+        "title": "msgraph pour Windows",
+        "text": "Exécutable autonome 64 bits. Téléchargez-le et lancez-le, il n'y a rien à installer."
       },
-      "speciesTable": {
-        "title": "Tableau station-essences",
-        "text": "Quelle essence favoriser sur quelle station : sol, alimentation en eau et stress hydrique attendu."
+      "linux": {
+        "title": "msgraph pour Linux",
+        "text": "Binaire autonome pour x86_64. Rendez-le exécutable avec chmod +x puis lancez-le depuis le terminal."
       },
-      "markingProtocol": {
-        "title": "Fiche de martelage",
-        "text": "Formulaire imprimable pour relever les arbres martelés, les diamètres et le volume prélevé par peuplement."
+      "qgisPlugin": {
+        "title": "Extension msgraph pour QGIS",
+        "text": "Exécute msgraph dans QGIS 3. Récupérez mstella_<version>.zip sur la page de la version et installez-la via Modules → Installer/Gérer les modules → Installer depuis un ZIP."
       }
     },
-    "note": "Cette liste est provisoire : les documents sont en préparation et les liens ne sont pas encore actifs."
+    "pinned": "Tous les liens de cette page renvoient à la version {{version}}, et non à la plus récente.",
+    "pinnedLatest": "Afficher la dernière version",
+    "versionInvalid": "« {{value}} » n'est pas un numéro de version : la version la plus récente est affichée à la place.",
+    "note": "Les liens renvoient toujours vers la version la plus récente : un marque-page reste valable. Les changements de chaque version figurent dans ses notes de publication.",
+    "notePinned": "Une version précise se demande par l'adresse de cette page (?version=v0.5.2). Si cette version n'existe pas, GitHub répond « introuvable »."
   },
   "impressum": {
     "pageTitle": "Mentions légales",

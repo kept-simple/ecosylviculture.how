@@ -1,4 +1,5 @@
-Put the downloadable files referenced by src/data/downloads.js here.
-The current entries in that file are placeholders and point at names that
-do not exist yet (field-guide.pdf, site-species-table.xlsx,
-marking-protocol.pdf), so their buttons 404 until real files are added.
+This directory is kept for files served from the site itself.
+
+The msgraph builds on the download page are not stored here — they are release
+assets of `kept-simple/mstella-plugin`, linked from `src/data/downloads.js`.
+See "Downloads" in the top-level README.
