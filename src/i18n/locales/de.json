@@ -87,26 +87,31 @@
     "note": "Bitte senden Sie keine sensiblen personenbezogenen Daten per E-Mail, sofern dies für Ihre Anfrage nicht erforderlich ist. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in der Datenschutzerklärung."
   },
   "download": {
-    "eyebrow": "Material für den Wald",
+    "eyebrow": "Software für die Bestandesanalyse",
     "title": "Download",
-    "subtitle": "Anleitungen, Tabellen und Formulare",
-    "intro": "Material zum Ausdrucken, Mitnehmen und Ausfüllen im Bestand. Alles hier darf frei genutzt und weitergegeben werden.",
+    "subtitle": "msgraph für Windows, Linux und QGIS",
+    "intro": "msgraph wertet Inventurdaten räumlich aus: Kronenpolygone, Abstände benachbarter Bäume und Histogramme von Bestandesmerkmalen. Wählen Sie die Variante für Ihr System.",
     "button": "Herunterladen",
+    "buttonRelease": "Release-Seite",
     "items": {
-      "fieldGuide": {
-        "title": "Praxisanleitung: Auszeichnen",
-        "text": "Eine kurze Anleitung zum Auszeichnen einzelner Erntebäume, ohne das Kronendach zu öffnen."
+      "windows": {
+        "title": "msgraph für Windows",
+        "text": "Eigenständige 64-Bit-Anwendung. Herunterladen und starten, eine Installation ist nicht nötig."
       },
-      "speciesTable": {
-        "title": "Standorts- und Baumartentabelle",
-        "text": "Welche Baumart auf welchem Standort zu fördern ist — Boden, Wasserversorgung und zu erwartender Trockenstress."
+      "linux": {
+        "title": "msgraph für Linux",
+        "text": "Eigenständige Binärdatei für x86_64. Mit chmod +x ausführbar machen und in der Shell starten."
       },
-      "markingProtocol": {
-        "title": "Auszeichnungsprotokoll",
-        "text": "Druckbares Formular zur Erfassung ausgezeichneter Bäume, Durchmesser und Entnahmemenge je Bestand."
+      "qgisPlugin": {
+        "title": "msgraph QGIS-Plugin",
+        "text": "Führt msgraph in QGIS 3 aus. Die Datei mstella_<Version>.zip von der Release-Seite laden und über Erweiterungen → Erweiterungen verwalten und installieren → Aus ZIP installieren einbinden."
       }
     },
-    "note": "Diese Liste ist ein Platzhalter — die Dokumente werden gerade vorbereitet, die Links sind noch nicht aktiv."
+    "pinned": "Alle Links auf dieser Seite verweisen auf Version {{version}}, nicht auf die neueste Version.",
+    "pinnedLatest": "Neueste Version anzeigen",
+    "versionInvalid": "„{{value}}“ ist keine Versionsangabe, daher wird die neueste Version angezeigt.",
+    "note": "Die Links verweisen immer auf die neueste Version, ein Lesezeichen bleibt also gültig. Was sich je Version geändert hat, steht in den Release Notes.",
+    "notePinned": "Eine bestimmte Version wird über die Adresse dieser Seite angefordert (?version=v0.5.2). Gibt es diese Version nicht, antwortet GitHub mit „nicht gefunden“."
   },
   "impressum": {
     "pageTitle": "Impressum",
