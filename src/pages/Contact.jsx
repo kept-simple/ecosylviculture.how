@@ -24,9 +24,6 @@ export default function Contact() {
             <h2 className="h5">{t('contact.directHeading')}</h2>
             <p className="mb-0">
               {t('common.emailLabel')}: <a href={`mailto:${owner.email}`}>{owner.email}</a>
-              <br />
-              {t('common.phoneLabel')}:{' '}
-              <a href={`tel:${owner.phone.replace(/\s/g, '')}`}>{owner.phone}</a>
             </p>
           </Col>
           <Col md={6}>
