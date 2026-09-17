@@ -34,8 +34,9 @@ every catalogue.
 
 ## Downloads
 
-The download page offers the msgraph builds — Windows, Linux and the QGIS
-plugin. The files are not stored here: `src/data/downloads.js` links to release
+The download page offers the msgraph builds — Windows, Linux, the two macOS
+builds (arm64 and x86_64, both unsigned, hence the Gatekeeper note carried by
+`unsigned: true`) and the QGIS plugin. The files are not stored here: `src/data/downloads.js` links to release
 assets of `kept-simple/mstella-plugin` through
 `/releases/latest/download/<asset>`, a GitHub redirect that always resolves to
 the newest release, so no link needs editing when a version ships.

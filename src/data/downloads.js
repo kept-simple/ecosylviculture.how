@@ -14,6 +14,8 @@
 // `page: true` marks an entry that points at the release page instead of a
 // file: the QGIS plugin is published as `mstella_<version>.zip`, and a name
 // that carries the version cannot be addressed through the latest redirect.
+// `unsigned: true` adds the note about Gatekeeper: the macOS builds carry no
+// developer signature, so macOS refuses them on the first attempt.
 // Titles and descriptions live in the catalogues under `download.items.<id>.*`.
 const releases = 'https://github.com/kept-simple/mstella-release/releases'
 
@@ -48,6 +50,20 @@ export function buildDownloads(tag) {
       url: asset('mstella-linux-x86_64'),
       format: 'Linux · x86_64',
       size: '≈ 138 MB',
+    },
+    {
+      id: 'macosArm64',
+      url: asset('mstella-macos-arm64.zip'),
+      format: 'macOS · arm64',
+      size: '≈ 73 MB',
+      unsigned: true,
+    },
+    {
+      id: 'macosX8664',
+      url: asset('mstella-macos-x86_64.zip'),
+      format: 'macOS · x86_64',
+      size: '≈ 79 MB',
+      unsigned: true,
     },
     {
       id: 'qgisPlugin',

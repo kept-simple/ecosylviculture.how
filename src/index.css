@@ -290,6 +290,13 @@ body {
   font-size: 0.95rem;
 }
 
+/* The Gatekeeper note on the unsigned macOS builds: a remark about the file,
+   not part of its description, hence set apart from the paragraph above. */
+.download-item-note {
+  margin-top: 0.4rem;
+  font-style: italic;
+}
+
 .download-meta {
   display: inline-block;
   margin-top: 0.4rem;

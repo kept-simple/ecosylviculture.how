@@ -90,10 +90,11 @@
   "download": {
     "eyebrow": "Software for stand analysis",
     "title": "Download",
-    "subtitle": "msgraph for Windows, Linux and QGIS",
+    "subtitle": "msgraph for Windows, Linux, macOS and QGIS",
     "intro": "msgraph analyses forest inventory data spatially: crown polygons, distances between neighbouring trees and histograms of stand attributes. Pick the build for your system.",
     "button": "Download",
     "buttonRelease": "Release page",
+    "unsigned": "Not signed: macOS refuses the app on the first launch. Open it once from the context menu (Control-click → Open) and confirm, or remove the quarantine flag with xattr -dr com.apple.quarantine.",
     "items": {
       "windows": {
         "title": "msgraph for Windows",
@@ -102,6 +103,14 @@
       "linux": {
         "title": "msgraph for Linux",
         "text": "Standalone binary for x86_64. Make it executable with chmod +x and run it from the shell."
+      },
+      "macosArm64": {
+        "title": "msgraph for macOS (Apple silicon)",
+        "text": "Standalone app for Macs with an M-series chip. Unpack the ZIP and move msgraph to your Applications folder."
+      },
+      "macosX8664": {
+        "title": "msgraph for macOS (Intel)",
+        "text": "Standalone app for Macs with an Intel processor. Unpack the ZIP and move msgraph to your Applications folder."
       },
       "qgisPlugin": {
         "title": "msgraph QGIS plugin",

@@ -51,6 +51,9 @@ export default function Download() {
               <div className="download-item-body">
                 <h3>{t(`download.items.${item.id}.title`)}</h3>
                 <p>{t(`download.items.${item.id}.text`)}</p>
+                {item.unsigned && (
+                  <p className="download-item-note">{t('download.unsigned')}</p>
+                )}
                 <span className="download-meta">
                   {item.format}
                   {item.size ? ` · ${item.size}` : ''}

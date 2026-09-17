@@ -90,10 +90,11 @@
   "download": {
     "eyebrow": "Logiciel d'analyse des peuplements",
     "title": "Téléchargements",
-    "subtitle": "msgraph pour Windows, Linux et QGIS",
+    "subtitle": "msgraph pour Windows, Linux, macOS et QGIS",
     "intro": "msgraph analyse les données d'inventaire dans l'espace : polygones de houppier, distances entre arbres voisins et histogrammes des attributs du peuplement. Choisissez la version adaptée à votre système.",
     "button": "Télécharger",
     "buttonRelease": "Page de la version",
+    "unsigned": "Non signée : macOS refuse le premier lancement. Ouvrez l'application une fois par le menu contextuel (Ctrl-clic → Ouvrir) et confirmez, ou retirez la quarantaine avec xattr -dr com.apple.quarantine.",
     "items": {
       "windows": {
         "title": "msgraph pour Windows",
@@ -102,6 +103,14 @@
       "linux": {
         "title": "msgraph pour Linux",
         "text": "Binaire autonome pour x86_64. Rendez-le exécutable avec chmod +x puis lancez-le depuis le terminal."
+      },
+      "macosArm64": {
+        "title": "msgraph pour macOS (puce Apple)",
+        "text": "Application autonome pour les Mac à puce M. Décompressez le ZIP et placez msgraph dans le dossier Applications."
+      },
+      "macosX8664": {
+        "title": "msgraph pour macOS (Intel)",
+        "text": "Application autonome pour les Mac à processeur Intel. Décompressez le ZIP et placez msgraph dans le dossier Applications."
       },
       "qgisPlugin": {
         "title": "Extension msgraph pour QGIS",

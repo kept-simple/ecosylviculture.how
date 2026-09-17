@@ -90,10 +90,11 @@
   "download": {
     "eyebrow": "Software para el análisis de masas",
     "title": "Descargas",
-    "subtitle": "msgraph para Windows, Linux y QGIS",
+    "subtitle": "msgraph para Windows, Linux, macOS y QGIS",
     "intro": "msgraph analiza datos de inventario forestal en el espacio: polígonos de copa, distancias entre árboles vecinos e histogramas de atributos de la masa. Elija la versión para su sistema.",
     "button": "Descargar",
     "buttonRelease": "Página de la versión",
+    "unsigned": "Sin firmar: macOS rechaza la aplicación en el primer inicio. Ábrala una vez desde el menú contextual (Ctrl-clic → Abrir) y confirme, o quite la cuarentena con xattr -dr com.apple.quarantine.",
     "items": {
       "windows": {
         "title": "msgraph para Windows",
@@ -102,6 +103,14 @@
       "linux": {
         "title": "msgraph para Linux",
         "text": "Binario autónomo para x86_64. Dele permiso de ejecución con chmod +x y láncelo desde la terminal."
+      },
+      "macosArm64": {
+        "title": "msgraph para macOS (Apple Silicon)",
+        "text": "Aplicación autónoma para Mac con chip M. Descomprima el ZIP y mueva msgraph a la carpeta Aplicaciones."
+      },
+      "macosX8664": {
+        "title": "msgraph para macOS (Intel)",
+        "text": "Aplicación autónoma para Mac con procesador Intel. Descomprima el ZIP y mueva msgraph a la carpeta Aplicaciones."
       },
       "qgisPlugin": {
         "title": "Complemento msgraph para QGIS",

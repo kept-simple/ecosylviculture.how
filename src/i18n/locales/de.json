@@ -90,10 +90,11 @@
   "download": {
     "eyebrow": "Software für die Bestandesanalyse",
     "title": "Download",
-    "subtitle": "msgraph für Windows, Linux und QGIS",
+    "subtitle": "msgraph für Windows, Linux, macOS und QGIS",
     "intro": "msgraph wertet Inventurdaten räumlich aus: Kronenpolygone, Abstände benachbarter Bäume und Histogramme von Bestandesmerkmalen. Wählen Sie die Variante für Ihr System.",
     "button": "Herunterladen",
     "buttonRelease": "Release-Seite",
+    "unsigned": "Nicht signiert: macOS verweigert den ersten Start. Die Anwendung einmal über das Kontextmenü öffnen (Ctrl-Klick → Öffnen) und bestätigen oder die Quarantäne mit xattr -dr com.apple.quarantine entfernen.",
     "items": {
       "windows": {
         "title": "msgraph für Windows",
@@ -102,6 +103,14 @@
       "linux": {
         "title": "msgraph für Linux",
         "text": "Eigenständige Binärdatei für x86_64. Mit chmod +x ausführbar machen und in der Shell starten."
+      },
+      "macosArm64": {
+        "title": "msgraph für macOS (Apple Silicon)",
+        "text": "Eigenständige Anwendung für Macs mit M-Chip. Das ZIP entpacken und msgraph in den Programme-Ordner legen."
+      },
+      "macosX8664": {
+        "title": "msgraph für macOS (Intel)",
+        "text": "Eigenständige Anwendung für Macs mit Intel-Prozessor. Das ZIP entpacken und msgraph in den Programme-Ordner legen."
       },
       "qgisPlugin": {
         "title": "msgraph QGIS-Plugin",
